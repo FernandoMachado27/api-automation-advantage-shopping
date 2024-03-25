@@ -1,4 +1,4 @@
-package br.com.rest.test.controller;
+package br.com.rest.test.controllers;
 
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.is;

@@ -1,6 +1,6 @@
 package br.com.rest.test.steps;
 
-import br.com.rest.test.controller.CatalogController;
+import br.com.rest.test.controllers.CatalogController;
 import io.cucumber.java.pt.Dado;
 public class CatalogSteps {
 	
