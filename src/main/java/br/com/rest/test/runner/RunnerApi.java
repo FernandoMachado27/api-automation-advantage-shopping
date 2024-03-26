@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions.SnippetType;
 @CucumberOptions(//
 		features = "classpath:features", //
 		glue = { "br.com.rest.test.steps", "br.com.rest.test.hooks" }, //
-		tags = "@ID_0001", //
+		tags = "@account", //
 		dryRun = false, //
 		plugin = { "html:target/cucumber-report.html" }, //
 		snippets = SnippetType.CAMELCASE //
